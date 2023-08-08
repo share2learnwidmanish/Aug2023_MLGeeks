@@ -13,9 +13,9 @@ HIGH LEVEL TOPICS
 
 ***************************************************************************   **Main curriculum**  **********************************************************************************
 
-Introduction to ML – Offline (you tubes and recommendation) 
+Introduction to ML – Offline (you tubes and recommendation) <br>
 
-Python for ML 
+Python for ML  <br>
   Data type and DS(list, set, tuple, dict) 
   List indexing , list methods 
   Major “str” methods – split, join
@@ -24,7 +24,7 @@ Python for ML
   Functions 
   Package and importing packages 
   
-ML libraries:
+ML libraries: <br>
   Numpy 
   Pandas 
   Matplotlib 
